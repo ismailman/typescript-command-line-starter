@@ -1,0 +1,14 @@
+{
+  "name": "typescript-command-line-starter",
+  "version": "1.0.0",
+  "description": "Basic started for typescript command line project",
+  "author": "code@omar.dev",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.13.8",
+    "jest": "^24.7.1",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
